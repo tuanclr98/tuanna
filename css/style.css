@@ -1,0 +1,73 @@
+#bg{
+	background: #f9f9f9;
+}
+#header{
+	background: #ffffff; padding: 15px 0px 15px 0px;
+}
+#footer{
+	background: #f2f2f2;
+}
+#e{
+	background: #0a9d59;
+}
+.wp_in{
+	width: 70%;
+	margin: 0 auto;
+}
+#content{
+	text-align: center;
+	
+}
+.b{
+	font-size:36px; font-family: "Myriad Pro Regular"; color: #555555;
+	padding: 15px 98px 15px 97px;
+}
+#box_center{
+	margin-top: 3.5%;margin-left: 34%;margin-right: 34%;margin-bottom: 1%;
+	background: #ffffff;
+}
+.c{
+	padding: 10px 100px 10px 5px;
+}
+.d{
+	padding: 10px 100px 10px 5px;
+}
+a.f:link, a.f:visited{
+	color: #0a9d59;
+}
+
+.m{border: 1px solid #d9d9d9;
+	padding: 7px 50px ;
+
+}	
+.g{
+	font-size: 15px; font-family: "Myriad";
+	padding: 0px 223px 0px 223px;
+	color: #242424;
+}
+.h{
+	list-style-type: circle;
+	margin-left:15px;
+}
+.letter{
+	width: 1000%px;
+	margin: 0 auto;
+	margin: 56px 0px 0px 0px;
+	font-size: 14px;
+	font-family: "Myriad";
+	color:#555555;
+}
+table.one{
+	width: 1000px;
+	height: 235px;
+}
+.n{
+	padding: 35px 0px 40px 0px;
+}
+table.two{
+	width: 1000px;
+	height: 10px;
+	font-family: "Myriad";
+	font-size:14px;
+	color: #ffffff;
+}
